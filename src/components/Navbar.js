@@ -14,6 +14,8 @@ export const Navbar = () => {
 
   console.log('I add some changes...');
 
+  console.log('I add some changes...');
+
   return (
     <nav className="navbar">
       <div className="nav-center">
