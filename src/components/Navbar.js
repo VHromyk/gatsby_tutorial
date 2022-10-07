@@ -8,14 +8,6 @@ export const Navbar = () => {
 
   const showMenuToggle = () => setShowMenu(!showMenu);
 
-  console.log('Here is commit for checking...');
-
-  console.log('I add some changes...');
-
-  console.log('I add some changes...');
-
-  console.log('I add some changes...');
-
   return (
     <nav className="navbar">
       <div className="nav-center">
