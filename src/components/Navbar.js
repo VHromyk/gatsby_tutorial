@@ -6,9 +6,11 @@ import logo from "../assets/images/logo.svg"
 export const Navbar = () => {
   const [showMenu, setShowMenu] = useState(false);
 
-
   const showMenuToggle = () => setShowMenu(!showMenu);
 
+  console.log('Here is commit for checking...');
+
+  console.log('I add some changes...');
 
   return (
     <nav className="navbar">
